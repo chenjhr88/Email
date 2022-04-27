@@ -14,7 +14,7 @@ public class SendEmail {
    public static void main(String [] args) throws FileNotFoundException, IOException, NullPointerException { 
 	   
 		// TURN OFF LESS SECURE APP ACCESS BEFORE RUNNING PROGRAM
-	   	final String fromEmail = "chenjhr8899@gmail.com"; //requires valid gmail id
+	   	final String fromEmail = "*****@gmail.com"; //requires valid gmail id
 		final String password = "*****"; // correct password for gmail id
 	   
 		Catalog myCatalog = new Catalog();
