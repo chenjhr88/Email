@@ -1,3 +1,3 @@
-# email
+# Java Email System
 
-Working SMTP protocol use
+Utilizing the SMTP protocol to deliver mass messages to lists of desired recipients.
